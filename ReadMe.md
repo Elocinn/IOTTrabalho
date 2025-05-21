@@ -79,7 +79,7 @@ Após cada comando, o terminal exibirá o estado atualizado de todos os cômodos
 
 ```
 Mensagem recebida | Tópico: Casa/Sala | Conteúdo: Ligar
-💡 Sala: Ligado
+Sala: Ligado
 
 Estado Atual da Casa:
  - Sala: True
