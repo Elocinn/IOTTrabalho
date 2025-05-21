@@ -94,3 +94,16 @@ Estado Atual da Casa:
 ```
 
 
+
+### broker HIVE
+### dividir em arquivos por salas
+### predios podem ser arquivos
+### arquivo de configuração, estados/caracteristicas de cada dispositivo
+### Cada buscar de tópicos seria em um arquivo separado
+### arquivo de configuração
+### topico - comodo de cada predio 
+### predio/sala/dispositivo
+### arquivo de dispositivo
+### fazer vários predios, e neles ver os quartos
+
+
