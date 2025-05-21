@@ -30,7 +30,7 @@ Este projeto simula um sistema de automação residencial utilizando MQTT com Py
 pip install paho-mqtt
 ```
 
-### (Opcional) Instale o cliente MQTT Mosquitto:
+### Instale o cliente MQTT Mosquitto:
 
 * Acesse: [https://mosquitto.org/download/](https://mosquitto.org/download/)
 * Adicione o executável (`mosquitto_pub.exe`) ao **PATH** ou rode diretamente da pasta.
